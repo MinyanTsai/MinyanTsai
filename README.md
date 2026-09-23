@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at National Taiwan University  ...
+- 🔭 I’m currently studying at National Taiwan University  
 - 🏫 I major in Information Management
-- 🌱 I’m currently learning C++, Python, Machine Learning...
+- 🌱 I’m currently learning C++, Python, Machine Learning
 
